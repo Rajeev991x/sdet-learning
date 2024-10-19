@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="learning.EditLegalEntity">
+      <class name="learning.DeleteContactAssociatedWithCampaign">
         <methods>
-          <include name="b"/>
+          <include name="createAccount"/>
         </methods>
-      </class> <!-- learning.EditLegalEntity -->
+      </class> <!-- learning.DeleteContactAssociatedWithCampaign -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
